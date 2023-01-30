@@ -13,7 +13,7 @@ Creating my own website
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](assets/img/Screenshot_20221109_071331.png)
 
 ### Large image
 
